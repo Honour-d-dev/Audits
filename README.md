@@ -2,7 +2,7 @@
 
 # Audit Portfolio - 0xHonour
 
-Smart contract security researcher with hands-on experience across private security reviews and competitive public audit contests. This portfolio covers 32 security reviews, including 17 private audits and 15 public contests (within the period 2024-2025), with a focus on identifying high-impact vulnerabilities, protocol-level design flaws, and subtle implementation risks across DeFi systems.
+Smart contract security researcher with hands-on experience across private security reviews and competitive public audit contests. This portfolio covers 32 security reviews, including 17 private audits and 15 public contests conducted between 2024 and 2025, with a focus on identifying high-impact vulnerabilities, protocol-level design flaws, and subtle implementation risks across DeFi systems, including yield farms, RWAs, AMMs, staking, lending, perpetuals, liquid staking, cross-chain bridges, and more.
 
 I can be contacted on:
 
