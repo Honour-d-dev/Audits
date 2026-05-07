@@ -1,17 +1,38 @@
-# Audits
-Security Research/Audit Portfolio
 
-# Audit Portfolio - 0x_Honour
 
-I can be contacted via:
+# Audit Portfolio - 0xHonour
+
+Smart contract security researcher with hands-on experience across private security reviews and competitive public audit contests. This portfolio covers 32 security reviews, including 17 private audits and 15 public contests (within the period 2024-2025), with a focus on identifying high-impact vulnerabilities, protocol-level design flaws, and subtle implementation risks across DeFi systems.
+
+I can be contacted on:
 
 - **X:** [0x_Honour](https://x.com/0x_Honour)
-- **Discord:** [@0xhonour](https://discord.com/users/0xhonour)
+- **Discord:** [0xhonour](https://discord.com/users/0xhonour)
 - **Telegram:** [OxHonour](https://t.me/OxHonour)
 
+Public Audits profile
+- [Sherlock - Aggregate profile](https://audits.sherlock.xyz/watson/Honour)
+- [Cantina](https://cantina.xyz/u/Honour)
+- [Cyfrin](https://profiles.cyfrin.io/u/honour)
+- [Code4rena](https://code4rena.com/@Honour)
+
+## Public Contest Highlights
+
+| Rank | Date | Contest | Platform | Findings |
+|:-----:|:-----|:--------|:---------|:---------|
+| 2nd place 🥈 | Dec 2024 | [QuantAMM](https://codehawks.cyfrin.io/contests/cm4qsgohz00002pfyew98t8u4) | CodeHawks | 3 High, 3 Medium(1 solo), 1 Low |
+| 2nd place 🥈 | Nov 2024 | [TermMax](https://cantina.xyz/competitions/205f8ca3-27fc-4da2-a2e6-0d43e1c60a41) | Cantina | 3 High(1 solo) |
+| 2nd place 🥈 | May 2024 | [Tokensoft Distributor Contracts Update](https://audits.sherlock.xyz/contests/285) | Sherlock | 1 Medium |
+| 4th | Jul 2024 | [Basin](https://code4rena.com/audits/2024-07-basin) | Code4rena | 2 High |
+| 6th | Sep 2024 | [instadapp-fluid](https://cantina.xyz/competitions/3a42798b-b1aa-4b10-b5e4-a8bbc22a70bc) | Cantina | 1 Low |
+| 6th | Jul 2024 | [Tadle](https://codehawks.cyfrin.io/contests/clzcnh4o1000p11vucwtzgoro) | CodeHawks | 8 High, 2 Low |
+| 7th | Jan 2025 | [Peapods](https://audits.sherlock.xyz/contests/749) | Sherlock | 1 High, 6 Medium |
+| 9th | Jun 2024 | [Velocimeter](https://audits.sherlock.xyz/contests/442) | Sherlock | 1 Medium |
 
 
-## Private Engagements
+
+
+## Private Reviews
 
 | Date             | Company | Protocol    | 
 |:-------------------|:-------------|:----------------------|
@@ -34,7 +55,7 @@ I can be contacted via:
 | Jan 2025 | Bailsec  | Parallel |
 
 
-## [Public Contests 🔗](https://audits.sherlock.xyz/watson/Honour)
+## [Public Contests - All 🔗](https://audits.sherlock.xyz/watson/Honour)
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Rank (top 10) |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
@@ -43,7 +64,7 @@ I can be contacted via:
 | Nov 2024 | [TermMax](https://cantina.xyz/competitions/205f8ca3-27fc-4da2-a2e6-0d43e1c60a41) | Cantina | 3 High | 2nd place 🥈|
 | Oct 2024 | [Debita Finance V3](https://audits.sherlock.xyz/contests/627) | Sherlock | 3 Medium | - |
 | Oct 2024 | [stakeup-bloomv2](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Cantina | 3 total findings | - |
-| Sep 2024 | [instadapp-fluid](https://cantina.xyz/competitions/3a42798b-b1aa-4b10-b5e4-a8bbc22a70bc) | Cantina | 3 High | 6th |
+| Sep 2024 | [instadapp-fluid](https://cantina.xyz/competitions/3a42798b-b1aa-4b10-b5e4-a8bbc22a70bc) | Cantina | 1 finding | 6th |
 | Aug 2024 | [ZeroLend One](https://audits.sherlock.xyz/contests/466) | Sherlock | 7 total findings | - |
 | Jul 2024 | [Tadle](https://codehawks.cyfrin.io/contests/clzcnh4o1000p11vucwtzgoro) | CodeHawks | 8 High 2 Low | 6th |
 | Jul 2024 | [Basin](https://code4rena.com/audits/2024-07-basin) | Code4rena | 2 High | 4th |
